@@ -17,7 +17,7 @@ target/
 
 #idea
 ./idea
-/idea/
+.idea
 *.ipr
 *.iml
 *.iws
@@ -30,3 +30,4 @@ target/
 #system ignore
 .Thumbs.db
 .DS_Store
+/.idea
